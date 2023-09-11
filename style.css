@@ -1,0 +1,61 @@
+.titulo{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.botones{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.collect{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: whitesmoke;
+}
+
+.texto{
+    text-align:center;
+    font-family: cursive;
+}
+
+.inbox{
+    align-items: right;
+}
+
+.us{
+
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: whitesmoke
+}
+
+.collect{
+    font-size: large;
+    color: white;
+    background-color: black;
+}
+
+p {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    margin: 15px 0; /* Esp  acio vertical entre párrafos */
+    color: #333; /* Color de texto predeterminado */
+}
+
+/* Agregar sombra y fondo para resaltar un párrafo con la clase "resaltado" */
+p.resaltado {
+    background-color: #f4f4f4; /* Color de fondo */
+    padding: 10px; /* Espacio interno */
+    border: 1px solid #ccc; /* Borde */
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2); /* Sombra */
+}
+
+h5.resaltado {
+    background-color: #f4f4f4; /* Color de fondo */
+    padding: 10px; /* Espacio interno */
+    border: 1px solid #ccc; /* Borde */
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2); /* Sombra */
+}
+
