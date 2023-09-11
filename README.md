@@ -11,4 +11,5 @@ Página inspirada en la marca Ford, donde podemos navegar por varías pestañas 
 
 ![](/Cap/Cap5.png)
 
+Cuenta con pestañas interactivas 
 ![](/Cap/Cap7.png)
